@@ -1,0 +1,16 @@
+{
+ "canada_students":5725431,
+ "canada_public_pct":91.8,
+ "canada_private_pct":7.6,
+ "canada_home_pct":0.7,
+ "highest_private":[
+  "British Columbia",
+  13.1
+ ],
+ "highest_home":[
+  "Yukon",
+  3.2
+ ],
+ "ontario_share_of_private_students_pct":35.4,
+ "on_qc_bc_share_of_private_students_pct":86.5
+}
